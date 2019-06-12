@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning with AWS [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/beginning-machine-learning-aws) [[Amazon]](https://www.amazon.com/Machine-Learning-AWS-artificial-intelligence/dp/1789806194)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Dr. Saket S.R. Mengle** holds a PhD in text mining from Illinois Institute of Technology, Chicago. He has worked in a variety of fields, including text classification, information retrieval, large-scale machine learning, and linear optimization. He currently works as senior principal data scientist at dataxu, where he is responsible for developing and maintaining the algorithms that drive dataxu's real-time advertising platform.
 
 **Maximo Gurmendez** holds a master's degree in computer science/AI from Northeastern University, where he attended as a Fulbright Scholar. Since 2009, he has been working with dataxu as data science engineering lead. He's also the founder of Montevideo Labs (a data science and engineering consultancy). Additionally, Maximo is a computer science professor at the University of Montevideo and is director of its data science for business program.
